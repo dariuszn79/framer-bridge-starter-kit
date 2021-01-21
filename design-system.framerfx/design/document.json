@@ -974,7 +974,7 @@
             "__class" : "CodeComponentNode",
             "$control__disabled" : {
               "type" : "boolean",
-              "value" : false
+              "value" : true
             },
             "$control__fluid" : {
               "type" : "boolean",
@@ -1011,7 +1011,7 @@
             "fillImagePixelWidth" : null,
             "fillImageResize" : "fill",
             "fillType" : "color",
-            "height" : 48,
+            "height" : 47,
             "heightType" : 0,
             "id" : "tc55XX_ZW",
             "intrinsicHeight" : 48,
@@ -1034,7 +1034,7 @@
             "rotation" : 0,
             "top" : -542,
             "visible" : true,
-            "width" : 150,
+            "width" : 464,
             "widthType" : 0
           }
         ],
